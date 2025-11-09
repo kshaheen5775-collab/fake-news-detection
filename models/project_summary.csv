@@ -1,0 +1,2 @@
+Project,Model Used,Dataset Size,Training Samples,Testing Samples,Accuracy,Precision,Recall,F1-Score
+Fake News Detection System,Random Forest,44898,35920,8978,99.85520160392069,99.95731967562953,99.76570820021298,99.86142202323846
