@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Only ignore LARGE data files (not the folder!)
+data/Fake.csv
+data/True.csv
+
+# Optionally ignore large model arrays
+# models/*.npy
+
+# System
+.DS_Store
+Thumbs.db
